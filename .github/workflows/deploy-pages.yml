@@ -1,7 +1,7 @@
 name: Deploy GitHub Pages
 on:
   push:
-    branches: ["HospitalApp","main"]
+    branches: ["App","main"]
   workflow_dispatch:
 permissions:
   contents: read
