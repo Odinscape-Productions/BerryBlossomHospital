@@ -1,0 +1,21 @@
+{
+  "name": "Berry Blossom Medical Centre",
+  "short_name": "Berry Blossom",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff5f8",
+  "theme_color": "#fff5f8",
+  "icons": [
+    {
+      "src": "assets/ui/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/ui/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
