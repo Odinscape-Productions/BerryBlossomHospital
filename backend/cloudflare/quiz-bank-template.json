@@ -1,0 +1,769 @@
+{
+  "quiz:general": {
+    "questions": [
+      {
+        "id": "g1",
+        "text": "What does BP usually mean on a hospital observation set?",
+        "options": [
+          "Blood pressure",
+          "Body position",
+          "Bed priority",
+          "Breathing point"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "g2",
+        "text": "Which action best supports infection control?",
+        "options": [
+          "Hand hygiene before and after patient contact",
+          "Reuse dirty gloves",
+          "Ignore spills",
+          "Share used dressings"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "g3",
+        "text": "A patient suddenly becomes very short of breath and unwell. What is the safest roleplay response?",
+        "options": [
+          "Reassess, communicate and escalate urgently",
+          "Ignore it",
+          "Wait until shift end",
+          "Send them away alone"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "g4",
+        "text": "What does HR usually mean on observations?",
+        "options": [
+          "Heart rate",
+          "Hospital room",
+          "Heat range",
+          "Health result"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "g5",
+        "text": "What makes a useful handover?",
+        "options": [
+          "Clear, relevant and structured communication",
+          "A long unrelated story",
+          "No communication",
+          "Only the room number"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:A&E": {
+    "questions": [
+      {
+        "id": "a-e1",
+        "text": "Which patient should be prioritised first?",
+        "options": [
+          "A patient with severe breathing difficulty",
+          "A visitor asking for directions",
+          "A week-old minor bruise",
+          "Someone asking for food"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "a-e2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "a-e3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "a-e4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "a-e5",
+        "text": "What makes a good A&E handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:General Medicine": {
+    "questions": [
+      {
+        "id": "general-medicine1",
+        "text": "Which approach best supports safe General Medicine roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "general-medicine2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "general-medicine3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "general-medicine4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "general-medicine5",
+        "text": "What makes a good General Medicine handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Surgery": {
+    "questions": [
+      {
+        "id": "surgery1",
+        "text": "Which approach best supports safe Surgery roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "surgery2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "surgery3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "surgery4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "surgery5",
+        "text": "What makes a good Surgery handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Cardiology": {
+    "questions": [
+      {
+        "id": "cardiology1",
+        "text": "Which approach best supports safe Cardiology roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "cardiology2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "cardiology3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "cardiology4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "cardiology5",
+        "text": "What makes a good Cardiology handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Orthopaedics": {
+    "questions": [
+      {
+        "id": "orthopaedics1",
+        "text": "Which approach best supports safe Orthopaedics roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "orthopaedics2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "orthopaedics3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "orthopaedics4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "orthopaedics5",
+        "text": "What makes a good Orthopaedics handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Radiology": {
+    "questions": [
+      {
+        "id": "radiology1",
+        "text": "Which approach best supports safe Radiology roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "radiology2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "radiology3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "radiology4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "radiology5",
+        "text": "What makes a good Radiology handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Paediatrics": {
+    "questions": [
+      {
+        "id": "paediatrics1",
+        "text": "What is especially important in paediatric assessment?",
+        "options": [
+          "Age-appropriate observations and clear escalation",
+          "Treat every child exactly as an adult",
+          "Ignore caregivers",
+          "Skip observations"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "paediatrics2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "paediatrics3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "paediatrics4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "paediatrics5",
+        "text": "What makes a good Paediatrics handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Maternity & Women’s Health": {
+    "questions": [
+      {
+        "id": "maternity---women-s-health1",
+        "text": "Which approach best supports safe Maternity & Women’s Health roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "maternity---women-s-health2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "maternity---women-s-health3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "maternity---women-s-health4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "maternity---women-s-health5",
+        "text": "What makes a good Maternity & Women’s Health handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Laboratory Services": {
+    "questions": [
+      {
+        "id": "laboratory-services1",
+        "text": "Which approach best supports safe Laboratory Services roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "laboratory-services2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "laboratory-services3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "laboratory-services4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "laboratory-services5",
+        "text": "What makes a good Laboratory Services handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Pharmacy": {
+    "questions": [
+      {
+        "id": "pharmacy1",
+        "text": "Which approach best supports safe Pharmacy roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "pharmacy2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "pharmacy3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "pharmacy4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "pharmacy5",
+        "text": "What makes a good Pharmacy handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Nursing": {
+    "questions": [
+      {
+        "id": "nursing1",
+        "text": "Which approach best supports safe Nursing roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "nursing2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "nursing3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "nursing4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "nursing5",
+        "text": "What makes a good Nursing handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  },
+  "quiz:Dental": {
+    "questions": [
+      {
+        "id": "dental1",
+        "text": "Which approach best supports safe Dental roleplay?",
+        "options": [
+          "Recognise concerns, communicate clearly and escalate appropriately",
+          "Ignore changes",
+          "Guess every step",
+          "Avoid handover"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "dental2",
+        "text": "If important patient information does not match, what should happen?",
+        "options": [
+          "Stop and resolve the discrepancy",
+          "Continue anyway",
+          "Delete the record",
+          "Guess"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "dental3",
+        "text": "A patient deteriorates during the scenario. What is the safest team response?",
+        "options": [
+          "Reassess and escalate based on severity",
+          "Wait until later",
+          "Ignore the change",
+          "Leave the patient"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "dental4",
+        "text": "Before a department-specific task, what matters?",
+        "options": [
+          "Correct patient/task confirmation and role boundaries",
+          "Skip checks",
+          "Rush without communication",
+          "Hide uncertainty"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "dental5",
+        "text": "What makes a good Dental handover?",
+        "options": [
+          "Relevant concerns, observations and plan",
+          "Only a room number",
+          "No communication",
+          "Unrelated details"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  }
+}
